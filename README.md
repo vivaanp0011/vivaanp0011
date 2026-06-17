@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**vivaanp0011/vivaanp0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Vivaan Pinglikar<br><br>I'm a young developer building early in one of the most competitive fields in the world.<br><br>I’m interested in AI, developer tools, privacy-first software, automation, and building products that actually solve problems. I know that software engineering is becoming harder to stand out in, so I’m trying to start early, learn fast, and create real projects instead of just talking about ideas.<br><br>Right now, I’m focused on building practical AI-powered tools for developers. My projects explore things like intelligent coding assistants, repository analysis, security scanning, deployment readiness, model routing, and local-first software. I care about making tools that are useful, understandable, and respectful of user privacy.<br><br>## What I’m Working On<br><br>### AegisCode<br>An open-source, privacy-first AI coding IDE powered by intelligent agent routing.  <br>The goal is to create an AI coding environment that gives developers control over their code, keys, context, and workflow.<br><br>### Stacker<br>An AI-powered CLI that analyzes GitHub repositories for tech stack details, security vulnerabilities, deployment recommendations, and code complexity.  <br>The goal is to help developers understand what is blocking a project from being production-ready.<br><br> What I Care About<br><br>- Building real products, not just small demos<br>- Learning by shipping projects<br>- AI tools that help developers without hiding everything from them<br>- Privacy-first and local-first design<br>- Clean code, security, and practical engineering<br>- Starting early and improving consistently<br><br>## My Goal<br><br>I’m not trying to wait until college or later to take software seriously. I want to use this time to build, fail, learn, and improve while most people are still only thinking about starting.<br><br>The field is competitive, but that is exactly why I want to begin now. Every project I build is a step toward becoming a better developer and creating something meaningful.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vivaanp0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vivaanp0011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vivaanp0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=vivaanp0011&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
